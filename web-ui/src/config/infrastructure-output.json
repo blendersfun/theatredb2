@@ -1,0 +1,22 @@
+{
+  "identity_pool_id": {
+    "sensitive": false,
+    "type": "string",
+    "value": "us-west-2:0c0af5f7-e833-4f2c-8776-e3f3f4b44964"
+  },
+  "region": {
+    "sensitive": false,
+    "type": "string",
+    "value": "us-west-2"
+  },
+  "user_pool_client_id": {
+    "sensitive": false,
+    "type": "string",
+    "value": "7leqdp1nhetfrv6pq85cssj0cu"
+  },
+  "user_pool_id": {
+    "sensitive": false,
+    "type": "string",
+    "value": "us-west-2_fEdkBUPs9"
+  }
+}

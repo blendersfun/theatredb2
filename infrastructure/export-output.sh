@@ -1,0 +1,1 @@
+terraform output -json > ../web-ui/src/config/infrastructure-output.json
